@@ -17,3 +17,37 @@
 	overflow-y: auto;
 }
 
+
+.st0{fill:#FFFFFF;
+    stroke:#000000;
+    stroke-width:3;
+    stroke-miterlimit:10;
+}
+.st0:hover{
+    fill: rgb(100, 172, 240);
+}
+.st1{
+    fill:#000000;
+}
+.st2{
+    font-family:'MyriadPro-Regular';
+}
+.st3{
+    font-size:12px;
+    fill: rgb(255, 255, 255);
+    font: bold;
+}
+.st4{
+    fill:none;
+    stroke:#000000;
+    stroke-width:3;
+    stroke-miterlimit:10;
+}
+.st5{
+    font-size:24px;
+}
+.st6{
+    fill:none;
+}
+
+
